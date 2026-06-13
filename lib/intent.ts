@@ -1,4 +1,4 @@
-export function detectIntent(message) {
+export function detectIntent(message: string) {
   const text = message.toLowerCase();
 
   if (
