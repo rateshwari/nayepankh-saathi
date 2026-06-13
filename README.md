@@ -1,36 +1,147 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ![NayePankh Saathi](screenshots/banner.svg)
 
-## Getting Started
+# 🧡 NayePankh Saathi
 
-First, run the development server:
+### Empowering Communities Through AI
+
+An AI-powered multilingual community support and guidance assistant developed for **NayePankh Foundation** to improve access to social welfare information through a conversational interface.
+
+🔗 **Live Demo:** https://nayepankh-saathi.vercel.app/
+
+🔗 **GitHub Repository:** https://github.com/rateshwari/nayepankh-saathi
+
+---
+
+## 🌟 Overview
+
+NayePankh Saathi is a production-ready chatbot designed to assist users with information related to:
+
+* 🎓 Education & Scholarships
+* 🍛 Food Assistance & Ration Schemes
+* 🌸 Women's Health & Hygiene
+* ❤️ Donations & Tax Benefits
+* 🤝 Volunteer Opportunities
+
+The application provides an intuitive chat experience and supports multilingual interactions to make guidance more accessible and user-friendly.
+
+---
+
+## ✨ Features
+
+* ✅ AI-powered conversational assistance
+* ✅ English and Hindi language support
+* ✅ Scholarship guidance for students
+* ✅ Food assistance and ration card information
+* ✅ Women's health and hygiene awareness
+* ✅ Donation and 80G tax benefit information
+* ✅ Responsive and modern chat interface
+* ✅ Intent-based assistance
+* ✅ Production deployment on Vercel
+
+---
+
+## 🛠️ Tech Stack
+
+| Category        | Technologies   |
+| --------------- | -------------- |
+| Frontend        | Next.js, React |
+| Language        | TypeScript     |
+| Styling         | Tailwind CSS   |
+| AI Integration  | Gemini API     |
+| Deployment      | Vercel         |
+| Version Control | Git & GitHub   |
+
+---
+
+## 🚀 Live Demo
+
+Visit the application here:
+
+👉 https://nayepankh-saathi.vercel.app/
+
+---
+
+## 📸 Screenshots
+
+> Screenshots demonstrating the chatbot functionalities.
+
+* Home Screen
+* Scholarship Guidance
+* Women's Health Assistance
+* Donation & Tax Benefit Support
+* Food Assistance Queries
+
+*(Screenshots can be added in the `screenshots` folder.)*
+
+---
+
+## 🏗️ System Architecture
+
+User → Next.js Frontend → API Routes → Gemini API → AI Response → User Interface
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/rateshwari/nayepankh-saathi.git
+cd nayepankh-saathi
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Configure environment variables:
+
+```env
+GEMINI_API_KEY=your_api_key
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Build for production:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+npm run build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🔮 Future Enhancements
 
-To learn more about Next.js, take a look at the following resources:
+* Voice-based interactions
+* Additional regional language support
+* WhatsApp integration
+* NGO administration dashboard
+* Analytics and reporting features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ❤️ Social Impact
 
-## Deploy on Vercel
+This project was developed as part of a technical internship application to demonstrate how Artificial Intelligence can be leveraged to improve access to information and support underserved communities through technology.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👩‍💻 Author
+
+**Rateshwari Shakthivel**
+
+Final Year Computer Science Student
+
+GitHub: https://github.com/rateshwari
+
+---
+
+## 📄 License
+
+This project is intended for educational and social impact purposes.
