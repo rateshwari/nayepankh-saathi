@@ -1,0 +1,14 @@
+[
+  {
+    "role": "AI Intern",
+    "skills": ["Python", "Machine Learning"]
+  },
+  {
+    "role": "Content Intern",
+    "skills": ["Writing", "Communication"]
+  },
+  {
+    "role": "Web Development Intern",
+    "skills": ["HTML", "CSS", "JavaScript"]
+  }
+]

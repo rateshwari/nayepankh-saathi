@@ -1,0 +1,15 @@
+[
+  {
+    "scheme": "Public Distribution System (PDS)",
+    "purpose": "Provides subsidized food grains",
+    "documents": ["Ration Card", "Identity Proof"]
+  },
+  {
+    "scheme": "Antyodaya Anna Yojana",
+    "purpose": "Food support for the poorest families"
+  },
+  {
+    "scheme": "One Nation One Ration Card",
+    "purpose": "Portable ration access across India"
+  }
+]
