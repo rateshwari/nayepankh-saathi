@@ -71,7 +71,7 @@ Visit the application here:
 * Donation & Tax Benefit Support
 * Food Assistance Queries
 
-*(Screenshots can be added in the `screenshots` folder.)*
+*(Screenshots are added in the `screenshots` folder.)*
 
 ---
 
@@ -136,7 +136,7 @@ This project was developed as part of a technical internship application to demo
 
 **Rateshwari Shakthivel**
 
-Final Year Computer Science Student
+Final Year BTech Artificial Intelligence and Data Science Student
 
 GitHub: https://github.com/rateshwari
 
